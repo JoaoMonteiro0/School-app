@@ -1,0 +1,65 @@
+Front-office  
+Utilizador:  
+	-> Como utilizador, desejo ter a capacidade de visualizar os dados do meu filho, para que possa alterá-los se necessário.  
+	-> Como utilizador, desejo poder consultar as notas atribuídas ao meu filho, para me manter informado.  
+	-> Eventos:  
+		-> Como utilizador, desejo poder visualizar os próximos eventos programados, para obter as informações necessárias.  
+		-> Como utilizador, desejo poder consultar os eventos passados, para referência.  
+	-> Aviso de faltas:  
+		-> Como utilizador, desejo poder criar um aviso de falta para o meu filho, a fim de informar os professores.  
+		-> Como utilizador, desejo poder consultar as faltas/avisos do meu filho, para referência.  
+  	  
+Back-office:  
+Administrador:  
+	-> Gestão de alunos:  
+		-> Como administrador, desejo poder criar registos de alunos, para ter os dados necessários.  
+		-> Como administrador, desejo poder adicionar os alunos à turma a que pertencem, para que os professores conheçam os alunos de várias turmas.  
+		-> Como administrador, desejo poder visualizar a lista de alunos, para consulta.  
+		-> Como administrador, desejo poder atualizar os dados dos alunos, para manter a informação atualizada.  
+		-> Como administrador, desejo poder eliminar alunos, para que apenas os que pertencem à escola estejam listados.  
+	-> Gestão de eventos:  
+		-> Como administrador, desejo poder criar eventos, para informar os pais/professores.  
+		-> Como administrador, desejo poder visualizar a lista de eventos, para consulta.  
+		-> Como administrador, desejo poder atualizar os dados dos eventos, para garantir que a informação esteja atualizada.  
+		-> Como administrador, desejo poder eliminar eventos, para não manter informação de eventos que não se realizarão.  
+	-> Gestão de professores:  
+		-> Como administrador, desejo poder criar registos de professores, para que tenham acesso ao back-office e para obter a informação necessária.  
+		-> Como administrador, desejo poder visualizar a lista de professores, para consulta.  
+		-> Como administrador, desejo poder atualizar os dados dos professores, para manter a informação atualizada.  
+		-> Como administrador, desejo poder eliminar professores, para que apenas os que leccionam estejam listados.  
+	-> Visualização dos sumários das várias disciplinas:  
+		-> Como administrador, desejo poder visualizar a lista dos sumários, para saber o que é leccionado nas aulas.  
+	-> Gestão de faltas:  
+		-> Como administrador, desejo poder criar registos de faltas dos alunos, para manter um registo das mesmas.  
+		-> Como administrador, desejo poder visualizar a lista de registos de faltas, para consulta.  
+		-> Como administrador, desejo poder atualizar os dados dos registos de faltas, para garantir que a informação esteja atualizada.  
+		-> Como administrador, desejo poder eliminar registos de faltas, para não manter informação errada.  
+	-> Gestão de notas:  
+		-> Como administrador, desejo poder visualizar a lista das notas dos alunos, para consulta.  
+		-> Como administrador, desejo poder atualizar os dados das notas, para garantir que a informação esteja atualizada.  
+	-> Gestão das horas de trabalho dos professores:  
+		-> Como administrador, desejo poder visualizar a lista de horas trabalhadas por cada professor.  
+		-> Como administrador, desejo poder atualizar as horas trabalhadas, para manter a informação atualizada.  
+	-> Gestão das disciplinas:  
+		-> Como administrador, desejo poder criar disciplinas, para obter informação sobre as mesmas.  
+		-> Como administrador, desejo poder visualizar a lista das disciplinas, para consulta.  
+		-> Como administrador, desejo poder atualizar a informação das disciplinas, para garantir que a informação esteja atualizada.  
+		-> Como administrador, desejo poder eliminar disciplinas, para que apenas as que são leccionadas permaneçam.  
+		-> Como administrador, desejo poder associar professores às disciplinas, para que cada disciplina tenha um professor associado.  
+Professor:  
+	-> Lançamento de notas dos alunos:  
+		-> Como professor, desejo poder lançar as notas dos alunos, para que tenham uma classificação.  
+		-> Como professor, desejo poder visualizar a lista dos alunos e suas notas, para consulta.  
+		-> Como professor, desejo poder atualizar as notas, para manter a informação atualizada.  
+		-> Como professor, desejo poder eliminar lançamentos de notas, para evitar informações erradas.  
+	-> Marcação de presenças/faltas:  
+		-> Como professor, desejo poder visualizar a lista de alunos da aula e marcar presenças, para manter um registo.  
+		-> Como professor, desejo poder visualizar a lista dos dias em que os alunos faltaram, para consulta.  
+	-> Sumários das disciplinas:  
+		-> Como professor, desejo poder criar o sumário das aulas, para registar o que foi realizado.  
+		-> Como professor, desejo poder visualizar a lista de sumários por disciplina, para consulta.  
+	-> Registo de horas de trabalho:  
+		-> Como professor, desejo poder registar as minhas horas de trabalho diárias, para manter um registo.  
+		-> Como professor, desejo poder visualizar a lista das minhas horas de trabalho por mês/semana, para consulta.  
+	-> Visualização das turmas:  
+		-> Como professor, desejo poder visualizar a lista das turmas e alunos que lecciono, para consulta.

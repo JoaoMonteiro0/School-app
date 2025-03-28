@@ -1,0 +1,32 @@
+Front-office
+User:
+	-> Ver os dados da criança
+	-> Ver as notas das varias disciplinas
+	-> Eventos:
+		-> Ver os próximos eventos
+		-> Ver eventos passados
+	-> Aviso de faltas:
+		-> Criar aviso de falta
+		-> Ver todas as faltas
+	-> Ver notificações
+  	
+Back-office:
+Admin:
+	-> Gestão de alunos
+	-> Gestão de eventos
+	-> Gestão de professores
+	-> Ver os sumários das varias disciplinas
+	-> Gestão de faltas
+	-> Gestão de notas
+	-> Gestão horas de trabalho dos professores
+	-> Gestão das disciplinas
+	-> Gestão de notificações
+Teacher:
+	-> Lançar notas dos alunos
+	-> Marcar presenças/faltas
+	-> Sumários das disciplinas
+	-> Registo de horas de trabalho
+	-> Ver as turmas
+	-> Notificações:
+		-> Ver notificações
+		-> Criar notificações
